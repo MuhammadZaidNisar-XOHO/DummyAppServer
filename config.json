@@ -1,0 +1,14 @@
+{
+    "db": {
+        "user": "SummaryDatabaseUser",
+        "pass": "OviRxprQuz0KQ",
+        "name": "Summary-Database",
+        "host": "localhost:10781"
+    },
+    
+    "storage": {
+        "keystore": "storage/geth/keystore/",
+        "path": "/public"
+    }
+    
+}
